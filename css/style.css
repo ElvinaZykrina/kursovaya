@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Oranienbaum;
+    src: url(fonts/Oranienbaum/Oranienbaum-Regular.ttf);
+}
+.ff-orn {
+    font-family: Oranienbaum;
+}
+.bg-dark-blue {
+    background-color: #19222C;
+}
+
+.bg-blue{
+    background-color: #233141;
+}
+.bg-green{
+    background-color: #00E593;
+}
+.bg-gray {
+    background-color: #A7A7A7;
+}
+.bg-footer-header {
+    background-color: #111820;
+}
+
+.main-width {
+    width: 70%;
+}
+
+.width-sm {
+    width: 60%;
+}
+.width-ssm {
+    width: 40%;
+}
+.mb-100 {
+    margin-bottom: 120px;
+}
+.mb-5{
+    margin-bottom: 50px;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.none-link {
+    text-decoration: none;
+   
+}
+.none-link:hover{
+    
+}
+.btn-outline-light:hover > a{
+    color: black;
+}
